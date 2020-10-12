@@ -55,7 +55,7 @@ class StudentPercentageGrade{
         }
 
         else {
-            System.out.println("Fail");
+            System.out.println("Fail!");
         }
     }
 }
